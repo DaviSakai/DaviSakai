@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi! I'm Davi Sakai</h1>
-<h3 align="center">Graduating in Software Engineering at UnB</h3>
+<h3 align="center">Software Engineering student at UnB</h3>
 
   <div align="center">
   <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=DaviSakai&rank_icon=github&show_icons=true&theme=radical&count_private=true">
